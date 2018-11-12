@@ -5,5 +5,5 @@ get '/' do
 end
 
 get '/secret' do
-  "I'm not stupid u stupid!"
+  "I'm not stupid, u stupid!"
 end
